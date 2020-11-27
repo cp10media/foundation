@@ -67,3 +67,4 @@ Where-as the file header for an Apache 2.0 licensed project would be:
 
 The addition of existing files from other projects is handled on a case by case
 basis. If you require any help then please email contact@dotnetfoundation.org 
+contact@cp10media.com
